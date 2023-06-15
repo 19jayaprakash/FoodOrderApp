@@ -1,0 +1,70 @@
+[
+    {
+      "name":"Chicago's Pizza",
+      "address":"NGP",
+      "delivery_charge": 5,
+      "image":"https://www.bulldogtribune.com/wp-content/uploads/2018/05/chicagos20logo_color202_0001_62111459-900x651.jpg",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Spaghetti",
+          "price": 100.00,
+          "url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/17/1/FN_Simple-Spaghetti-with-Tomato-Sauce_s4x3.jpg.rend.hgtvcom.826.620.suffix/1408069256188.jpeg"
+        },
+        {
+          "name": "Spaghettios Pizza",
+          "price": 130.99,
+          "url": "https://lh3.googleusercontent.com/p/AF1QipN-WboPX7pEgnNqg78wranzezsGMdPfwCoxQjdJ=s1280-p-no-v1"
+        },
+        {
+          "name": "Chocolate Pizza",
+          "price": 90.99,
+          "url": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/08/blah.jpg"
+        },
+        {
+          "name": "Cheese Sticks",
+          "price": 70.49,
+          "url": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21-500x500.jpg"
+        },
+        {
+          "name": "CHICKEN FINGER SANDWICH",
+          "price": 140.00,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "FINGERZ BOXED LUNCH",
+          "price": 130.25,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "HOUSE ZALAD BOXED",
+          "price": 100.49,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "COBB ZALAD BOXED",
+          "price": 90.99,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "COOKIE AND BROWNIE ",
+          "price": 50.09,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "BROWNIE PLATTER",
+          "price": 60.49,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+        }
+      ]
+    }
+]

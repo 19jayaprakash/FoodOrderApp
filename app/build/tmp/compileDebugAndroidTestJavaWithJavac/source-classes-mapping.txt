@@ -1,0 +1,4 @@
+com/android/foodorderapp/ExampleInstrumentedTest.java
+ com.android.foodorderapp.ExampleInstrumentedTest
+com/android/foodorderapp/test/BuildConfig.java
+ com.android.foodorderapp.test.BuildConfig
